@@ -1,11 +1,5 @@
-# Data-Visualization-Projects
-
-1. E-commerce Sales Dashboard (Looker Studio)
-  - [Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/Screenshot%202025-05-07%20114847.png)
-  - [Report](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/README.md#e-commercesalesdashboard)
-2.
-
-# E-Commerce Sales Dashboard
+I have developed multiple interactive dashboards using tools such as Power BI, Tableau, and Looker Studio to extract insights from complex datasets and support data-driven decision-making. Some key projects include:
+# 📊 E-Commerce Sales Dashboard
 Overview - This interactive dashboard was built to analyze sales data from an eCommerce platform. It provides a comprehensive view of customer engagement, product performance, and revenue distribution across categories and payment methods. The objective was to derive actionable insights to support strategic decision-making in sales and marketing.
 
 Objectives - 
@@ -18,6 +12,8 @@ Tools & Technologies -
 - Tool : Looker Studio
 - Data Processing: Excel (data cleaning & preparation)
 - Visualization Techniques: Bar charts, pie charts, KPI cards, tabular views
+
+[Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/Screenshot%202025-05-07%20114847.png)
 
 Key Metrics Tracked - 
 - Total Customers: 3,655
