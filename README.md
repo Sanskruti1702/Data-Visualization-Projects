@@ -34,7 +34,7 @@ Insights & Analysis -
 Conclusion & Business Impact -
 This dashboard empowers business users with clear visibility into sales trends, payment preferences, and product performance. It highlights areas for promotion (like Books and Home & Kitchen) and supports pricing strategy through discount analytics. It also indicates the success of digital payment integration.
 
-# Healthcare Data Dashboard
+# 📊 Healthcare Data Dashboard
 Overview - This Power BI dashboard analyzes key performance indicators of hospitals to help stakeholders monitor and improve healthcare delivery. It focuses on metrics such as Length of Stay (LOS), cost efficiency, and hospital-wise performance, offering both high-level summaries and deep-dive analyses.
 
 Objectives - 
