@@ -64,7 +64,8 @@ Insights & Analysis -
 - Department-level breakdowns highlight specific service areas where costs or LOS exceed the average.
 - High-performing hospitals can be used as benchmarks to identify best practices across the network.
 
-Conclusion & Business Impact - This dashboard enables hospital administrators and healthcare analysts to:
+Conclusion & Business Impact - 
+This dashboard enables hospital administrators and healthcare analysts to:
 - Make informed decisions on resource allocation and operational improvements
 - Track performance against benchmarks in real time
 - Identify cost-saving opportunities
