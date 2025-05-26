@@ -34,6 +34,43 @@ Insights & Analysis -
 Conclusion & Business Impact -
 This dashboard empowers business users with clear visibility into sales trends, payment preferences, and product performance. It highlights areas for promotion (like Books and Home & Kitchen) and supports pricing strategy through discount analytics. It also indicates the success of digital payment integration.
 
+# Healthcare Data Dashboard
+Overview - This Power BI dashboard analyzes key performance indicators of hospitals to help stakeholders monitor and improve healthcare delivery. It focuses on metrics such as Length of Stay (LOS), cost efficiency, and hospital-wise performance, offering both high-level summaries and deep-dive analyses.
+
+Objectives - 
+- To compare hospital performance based on LOS and treatment costs
+- To identify outliers and patterns in patient care efficiency
+- To assist healthcare management in making data-driven operational decisions
+- To enable department-wise and hospital-wise benchmarking
+  
+Tools & Technologies -
+- Power BI – for data visualization and dashboard development
+- DAX (Data Analysis Expressions) – for custom measures and calculations
+- Power Query – for data cleaning and transformation
+- Microsoft Excel – used for initial data preparation and validation (optional)
+
+[Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/HealthStat-DB/Description.md)
+
+Key Metrics Tracked - 
+- Average Length of Stay (LOS) per hospital and department
+- Total and average cost of treatment per hospital
+- Patient admission volume
+- Hospital efficiency scores and benchmarks
+- Departmental performance indicators
+  
+Insights & Analysis -
+- Certain hospitals exhibit higher LOS compared to benchmarks, indicating potential inefficiencies in care or discharge processes.
+- Cost disparities across hospitals reveal opportunities for cost optimization without compromising care quality.
+- Department-level breakdowns highlight specific service areas where costs or LOS exceed the average.
+- High-performing hospitals can be used as benchmarks to identify best practices across the network.
+
+Conclusion & Business Impact - This dashboard enables hospital administrators and healthcare analysts to:
+- Make informed decisions on resource allocation and operational improvements
+- Track performance against benchmarks in real time
+- Identify cost-saving opportunities
+- Improve patient throughput by reducing LOS
+- Establish a data-driven culture for ongoing healthcare performance management
+
 
 
 
