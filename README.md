@@ -66,11 +66,11 @@ Insights & Analysis -
 
 Conclusion & Business Impact - 
 This dashboard enables hospital administrators and healthcare analysts to:
-- Make informed decisions on resource allocation and operational improvements
-- Track performance against benchmarks in real time
-- Identify cost-saving opportunities
-- Improve patient throughput by reducing LOS
-- Establish a data-driven culture for ongoing healthcare performance management
+ - Make informed decisions on resource allocation and operational improvements
+ - Track performance against benchmarks in real time
+ - Identify cost-saving opportunities
+ - Improve patient throughput by reducing LOS
+ - Establish a data-driven culture for ongoing healthcare performance management
 
 
 
