@@ -72,6 +72,41 @@ This dashboard enables hospital administrators and healthcare analysts to:
  - Improve patient throughput by reducing LOS
  - Establish a data-driven culture for ongoing healthcare performance management
 
+# 📊 HR Analytics Dashboard
+Overview - This interactive HR Analytics Dashboard provides insights into employee attrition and workforce demographics. The dashboard enables HR and leadership teams to make data-driven decisions aimed at improving employee retention and satisfaction.
+
+Objectives - 
+- Analyze key factors contributing to employee attrition
+- Visualize workforce distribution by department, age group, gender, and education field
+- Identify segments with high attrition risk for targeted HR interventions
+- Monitor overall employee engagement through job satisfaction ratings
+- Provide actionable insights to support HR strategy and improve retention
+
+Tools & Technologies - 
+- Tableau Desktop
+- Microsoft Excel (data preparation)
+
+[Dashboard](https://github.com/Sanskruti1702/Data-Visualization-Projects/blob/main/HR%20Dashboard%20ss.png)
+
+Key Metrics Tracked -
+- Total Employees, Attrition Count & Rate, Active Employees
+- Average Employee Age
+- Attrition by Department, Gender, Education Field, and Age Group
+- Job Satisfaction Ratings by Role
+- Age Distribution of Employees
+
+Insights & Analysis - 
+- Higher attrition observed in Sales and R&D departments compared to HR
+- Younger employees (25–34 age group) and employees with Life Sciences & Medical education fields exhibit higher attrition rates
+- Female employees show slightly higher attrition rates in certain age groups
+- Roles with lower job satisfaction ratings correlate with higher attrition
+- Month-on-month trends and demographics can help HR focus retention efforts
+
+Conclusion & Business Impact -
+- The dashboard provides a holistic view of attrition patterns, enabling HR to focus on at-risk segments
+- Insights support data-driven decisions for retention strategies, training programs, and employee engagement initiatives
+- Helps leadership proactively monitor workforce stability and plan for future HR interventions
+- Contributes to reducing attrition costs and improving organizational health over time
 
 
 
